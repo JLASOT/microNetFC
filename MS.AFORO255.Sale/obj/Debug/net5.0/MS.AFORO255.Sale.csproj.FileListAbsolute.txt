@@ -136,3 +136,4 @@ D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Sale\bin\Debug\net5.0\Mail
 D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Sale\bin\Debug\net5.0\MimeKit.dll
 D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Sale\bin\Debug\net5.0\System.Formats.Asn1.dll
 D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Sale\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Sale\obj\Debug\net5.0\MS.AFORO255.Sale.sourcelink.json

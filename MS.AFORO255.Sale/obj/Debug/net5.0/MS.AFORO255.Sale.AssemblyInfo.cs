@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MS.AFORO255.Sale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5196bfd720ddac3535eb0176074530e7ee526c72")]
 [assembly: System.Reflection.AssemblyProductAttribute("MS.AFORO255.Sale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MS.AFORO255.Sale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
