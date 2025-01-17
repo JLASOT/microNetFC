@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MS.AFORO255.Cross.Kafka/1.0.0": {
+        "runtime": {
+          "MS.AFORO255.Cross.Kafka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MS.AFORO255.Cross.Kafka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\Formulario\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Formulario.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Formulario.1z6m9rk124.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\Formulario\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\Formulario\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\Formulario\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\Formulario\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Formulario.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Formulario.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Formulario.props",
+      "PackagePath": "build\\Formulario.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Formulario.props",
+      "PackagePath": "buildMultiTargeting\\Formulario.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Formulario.props",
+      "PackagePath": "buildTransitive\\Formulario.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

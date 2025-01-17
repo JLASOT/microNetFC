@@ -1,0 +1,68 @@
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.csproj.AssemblyReference.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\appsettings.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.exe
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.deps.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.runtimeconfig.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.runtimeconfig.dev.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.RazorTargetAssemblyInfo.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Product.styles.css
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Product.StaticWebAssets.Manifest.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Product.StaticWebAssets.Pack.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\msbuild.MS.AFORO255.Product.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\msbuild.build.MS.AFORO255.Product.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MS.AFORO255.Product.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MS.AFORO255.Product.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO.AD385FA2.Up2Date
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\refint\MS.AFORO255.Product.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\ref\MS.AFORO255.Product.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\appsettings.Development.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\appsettings.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.exe
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.deps.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.runtimeconfig.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.runtimeconfig.dev.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\MS.AFORO255.Product.pdb
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Npgsql.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.csproj.AssemblyReference.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.AssemblyInfoInputs.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.AssemblyInfo.cs
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.csproj.CoreCompileInputs.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.MvcApplicationPartsAssemblyInfo.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.RazorTargetAssemblyInfo.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Product.styles.css
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Product.StaticWebAssets.Manifest.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Product.StaticWebAssets.Pack.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\msbuild.MS.AFORO255.Product.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\msbuild.build.MS.AFORO255.Product.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MS.AFORO255.Product.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MS.AFORO255.Product.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO.AD385FA2.Up2Date
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\refint\MS.AFORO255.Product.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.pdb
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\MS.AFORO255.Product.genruntimeconfig.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Product\obj\Debug\net5.0\ref\MS.AFORO255.Product.dll

@@ -1,0 +1,122 @@
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\appsettings.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.exe
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.deps.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.runtimeconfig.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.runtimeconfig.dev.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.csproj.AssemblyReference.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.RazorTargetAssemblyInfo.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Customer.styles.css
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Customer.StaticWebAssets.Manifest.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Customer.StaticWebAssets.Pack.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\msbuild.MS.AFORO255.Customer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\msbuild.build.MS.AFORO255.Customer.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MS.AFORO255.Customer.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MS.AFORO255.Customer.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO.8D751D24.Up2Date
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\refint\MS.AFORO255.Customer.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\ref\MS.AFORO255.Customer.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Common.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Common.Abstractions.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Common.Http.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Aforo255.Cross.Discovery.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Aforo255.Cross.Event.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Aforo255.Cross.Http.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Consul.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MediatR.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Polly.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\appsettings.Development.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\appsettings.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.exe
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.deps.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.runtimeconfig.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.runtimeconfig.dev.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MS.AFORO255.Customer.pdb
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Aforo255.Cross.Discovery.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Aforo255.Cross.Event.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Aforo255.Cross.Http.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Consul.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MediatR.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Npgsql.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Polly.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Common.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Common.Abstractions.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Common.Http.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Discovery.Abstractions.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\bin\Debug\net5.0\System.Reflection.MetadataLoadContext.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.csproj.AssemblyReference.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.AssemblyInfoInputs.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.AssemblyInfo.cs
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.csproj.CoreCompileInputs.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.MvcApplicationPartsAssemblyInfo.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.RazorTargetAssemblyInfo.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Customer.styles.css
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Customer.StaticWebAssets.Manifest.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Customer.StaticWebAssets.Pack.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\msbuild.MS.AFORO255.Customer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\msbuild.build.MS.AFORO255.Customer.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MS.AFORO255.Customer.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MS.AFORO255.Customer.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO.8D751D24.Up2Date
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\refint\MS.AFORO255.Customer.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.pdb
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\MS.AFORO255.Customer.genruntimeconfig.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Customer\obj\Debug\net5.0\ref\MS.AFORO255.Customer.dll

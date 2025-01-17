@@ -1,0 +1,35 @@
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\MS.AFORO255.Cross.Kafka.deps.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\MS.AFORO255.Cross.Kafka.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\ref\MS.AFORO255.Cross.Kafka.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\MS.AFORO255.Cross.Kafka.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\ref\MS.AFORO255.Cross.Kafka.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\MS.AFORO255.Cross.Kafka.deps.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\MS.AFORO255.Cross.Kafka.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\ref\MS.AFORO255.Cross.Kafka.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\MS.AFORO255.Cross.Kafka.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\ref\MS.AFORO255.Cross.Kafka.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\MS.AFORO255.Cross.Kafka.deps.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\MS.AFORO255.Cross.Kafka.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\bin\Debug\net5.0\MS.AFORO255.Cross.Kafka.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\refint\MS.AFORO255.Cross.Kafka.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\MS.AFORO255.Cross.Kafka.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Cross.Kafka\obj\Debug\net5.0\ref\MS.AFORO255.Cross.Kafka.dll

@@ -1,0 +1,333 @@
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\appsettings.Development.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\appsettings.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.exe
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.deps.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.runtimeconfig.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.runtimeconfig.dev.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\ref\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.pdb
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Google.Protobuf.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MySql.Data.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Zstandard.Net.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Renci.SshNet.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.MvcApplicationPartsAssemblyInfo.cs
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Notification.StaticWebAssets.Manifest.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Notification.StaticWebAssets.xml
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Notification.styles.css
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.RazorTargetAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csproj.CopyComplete
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\ref\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.pdb
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.genruntimeconfig.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\appsettings.Development.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\appsettings.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.exe
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.deps.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.runtimeconfig.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.runtimeconfig.dev.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\ref\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Google.Protobuf.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MySql.Data.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Zstandard.Net.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Renci.SshNet.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.MvcApplicationPartsAssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Notification.StaticWebAssets.Manifest.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Notification.StaticWebAssets.xml
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Notification.styles.css
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.RazorTargetAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csproj.CopyComplete
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\ref\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\01\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.genruntimeconfig.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\appsettings.Development.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\appsettings.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.exe
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.deps.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.runtimeconfig.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.runtimeconfig.dev.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\ref\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Google.Protobuf.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MySql.Data.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Zstandard.Net.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Renci.SshNet.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.MvcApplicationPartsAssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Notification.StaticWebAssets.Manifest.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Notification.StaticWebAssets.xml
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Notification.styles.css
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.RazorTargetAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csproj.CopyComplete
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\ref\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.genruntimeconfig.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Aforo255.Cross.Event.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MediatR.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\02\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\appsettings.Development.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\appsettings.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.exe
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.deps.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.runtimeconfig.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.runtimeconfig.dev.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\ref\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Aforo255.Cross.Discovery.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Aforo255.Cross.Event.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Consul.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Google.Protobuf.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MediatR.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MySql.Data.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Zstandard.Net.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Polly.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Renci.SshNet.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.MvcApplicationPartsAssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Notification.StaticWebAssets.Manifest.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Notification.StaticWebAssets.xml
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Notification.styles.css
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.RazorTargetAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csproj.CopyComplete
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\ref\MS.AFORO255.Notification.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.genruntimeconfig.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Common.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Common.Abstractions.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Common.Http.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Discovery.Abstractions.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\appsettings.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.StaticWebAssets.xml
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.exe
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.deps.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.runtimeconfig.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.runtimeconfig.dev.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MS.AFORO255.Notification.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Aforo255.Cross.Discovery.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Aforo255.Cross.Event.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Consul.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MediatR.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Polly.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Renci.SshNet.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Common.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Common.Abstractions.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Common.Http.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.ConfigServerBase.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.ConfigServerCore.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Steeltoe.Extensions.Configuration.PlaceholderBase.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csproj.AssemblyReference.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.RazorTargetAssemblyInfo.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Notification.styles.css
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Notification.StaticWebAssets.Manifest.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Notification.StaticWebAssets.Pack.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\msbuild.MS.AFORO255.Notification.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\msbuild.build.MS.AFORO255.Notification.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MS.AFORO255.Notification.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MS.AFORO255.Notification.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO.4C832652.Up2Date
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\refint\MS.AFORO255.Notification.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\MS.AFORO255.Notification.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Notification\obj\Debug\net5.0\ref\MS.AFORO255.Notification.dll

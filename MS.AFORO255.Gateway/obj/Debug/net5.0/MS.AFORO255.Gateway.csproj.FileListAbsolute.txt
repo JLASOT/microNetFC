@@ -1,0 +1,136 @@
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\appsettings.Development.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\appsettings.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\ocelot.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.exe
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.deps.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.runtimeconfig.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.runtimeconfig.dev.json
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\ref\MS.AFORO255.Gateway.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\FluentValidation.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Ocelot.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Gateway.StaticWebAssets.Manifest.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Gateway.StaticWebAssets.xml
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Gateway.styles.css
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.RazorTargetAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.csproj.CopyComplete
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\ref\MS.AFORO255.Gateway.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.pdb
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.genruntimeconfig.cache
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Aforo255.Cross.Token.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AFORO255\CLASES\2021\67.- MSN - MAY 21\03\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\ocelot.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.StaticWebAssets.xml
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.exe
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.deps.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.runtimeconfig.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.runtimeconfig.dev.json
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Aforo255.Cross.Token.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.csproj.AssemblyReference.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.AssemblyInfoInputs.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.AssemblyInfo.cs
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Gateway.styles.css
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Gateway.StaticWebAssets.Manifest.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Gateway.StaticWebAssets.Pack.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.MS.AFORO255.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.build.MS.AFORO255.Gateway.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MS.AFORO255.Gateway.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MS.AFORO255.Gateway.props
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO.285B38A1.Up2Date
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\refint\MS.AFORO255.Gateway.dll
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.pdb
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.genruntimeconfig.cache
+C:\Users\Elvis\Desktop\C-Microservice\sesion3\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\ref\MS.AFORO255.Gateway.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\appsettings.Development.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\appsettings.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\ocelot.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.StaticWebAssets.xml
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.exe
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.deps.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.runtimeconfig.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.runtimeconfig.dev.json
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\MS.AFORO255.Gateway.pdb
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Aforo255.Cross.Token.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\FluentValidation.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\Ocelot.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.csproj.AssemblyReference.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.AssemblyInfoInputs.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.AssemblyInfo.cs
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.csproj.CoreCompileInputs.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.RazorTargetAssemblyInfo.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.Gateway.styles.css
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Gateway.StaticWebAssets.Manifest.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\MS.AFORO255.Gateway.StaticWebAssets.Pack.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.MS.AFORO255.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.build.MS.AFORO255.Gateway.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MS.AFORO255.Gateway.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MS.AFORO255.Gateway.props
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO.285B38A1.Up2Date
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\refint\MS.AFORO255.Gateway.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.pdb
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\MS.AFORO255.Gateway.genruntimeconfig.cache
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\MS.AFORO255.Gateway\obj\Debug\net5.0\ref\MS.AFORO255.Gateway.dll

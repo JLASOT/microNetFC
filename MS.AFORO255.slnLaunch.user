@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "MS.AFORO255.Customer\\MS.AFORO255.Customer.csproj",
+        "Action": "Start",
+        "DebugTarget": "MS.AFORO255.Customer"
+      },
+      {
+        "Path": "MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj",
+        "Action": "Start",
+        "DebugTarget": "MS.AFORO255.Sale"
+      },
+      {
+        "Path": "MS.AFORO255.Security\\MS.AFORO255.Security.csproj",
+        "Action": "Start",
+        "DebugTarget": "MS.AFORO255.Security"
+      },
+      {
+        "Path": "MS.AFORO255.Gateway\\MS.AFORO255.Gateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

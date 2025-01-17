@@ -1,0 +1,182 @@
+﻿@page "/sales-report"
+@rendermode InteractiveServer
+@inject HttpClient Http
+@inject ILogger<Report> Logger
+@inject IJSRuntime JS
+
+<PageTitle>Sales Report</PageTitle>
+
+<h1>Sales Report</h1>
+
+<div>
+    <label for="startDate">Fecha de inicio:</label>
+    <input type="date" @bind="startDate" id="startDate" />
+
+    <label for="endDate">Fecha de fin:</label>
+    <input type="date" @bind="endDate" id="endDate" />
+    <button class="btn btn-primary" @onclick="GetSalesReport">Click me</button>
+
+
+
+    <label for="email">Correo Electrónico:</label>
+    <input type="email" @bind="emailAddress" id="email" />
+
+    <button class="btn btn-primary" @onclick="SendSalesReportByEmail">Enviar PDF por Correo</button>
+
+</div>
+
+@if (ventas == null)
+{
+    <p><em>Cargando...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre del Cliente</th>
+                <th>Fecha de Venta</th>
+                <th>Monto Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var venta in ventas)
+            {
+                <tr>
+                    <td>@venta.CustomerName</td>
+                    <td>@venta.SaleDate.ToShortDateString()</td>
+                    <td>@venta.TotalAmount</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+@code {
+
+    private List<Sale>? ventas;
+    private DateTime startDate = DateTime.Now.AddMonths(-1); // Fecha de inicio por defecto (un mes atrás)
+    private DateTime endDate = DateTime.Now; // Fecha de fin por defecto (hoy)
+
+
+
+    private string emailAddress = string.Empty; // Correo electrónico
+
+
+
+    // Método para obtener el reporte de ventas
+    private async Task GetSalesReport()
+    {
+        try
+        {
+            await JS.InvokeVoidAsync("console.log", "¡Botón rporrtt!");
+
+            // Formatea las fechas en formato de cadena (YYYY-MM-DD) para la consulta
+            var startDateString = startDate.ToString("yyyy-MM-dd");
+            var endDateString = endDate.ToString("yyyy-MM-dd");
+
+
+            // Realiza la solicitud HTTP para obtener los datos
+            var response = await Http.GetFromJsonAsync<List<Sale>>($"http://localhost:5000/api/sale/report?startDate={startDateString}&endDate={endDateString}");
+            await JS.InvokeVoidAsync("console.log", response);
+            //ventas = response;
+            // Verifica si la respuesta es nula
+            if (response != null)
+            {
+                ventas = response;
+                Console.WriteLine("Reporte recibido con éxito.");
+            }
+            else
+            {
+                Console.WriteLine("No se recibió respuesta de la API.");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error al obtener los datos: {ex.Message}");
+        }
+    }
+
+
+
+
+    // Clase que representa una venta
+    private class Sale
+    {
+        public string CustomerName { get; set; }
+        public DateTime SaleDate { get; set; }
+        public decimal TotalAmount { get; set; }
+    }
+
+
+    private async Task OnButtonClick()
+    { // Utiliza console.log para mostrar un mensaje en la consola del navegador
+        await JS.InvokeVoidAsync("console.log", "¡Botón clickeado!");
+
+    }
+
+
+
+
+
+    private async Task SendSalesReportByEmail()
+    {
+        if (string.IsNullOrWhiteSpace(emailAddress))
+        {
+            Console.WriteLine("Por favor, ingresa un correo válido.");
+            return;
+        }
+
+        try
+        {
+            /*var request = new
+                {
+                StartDate = startDate.ToString("yyyy-MM-dd"),
+                EndDate = endDate.ToString("yyyy-MM-dd"),
+                Email = emailAddress
+            };*/
+            // Formatea las fechas en formato de cadena (YYYY-MM-DD) para la consulta
+            var startDateString = startDate.ToString("yyyy-MM-dd");
+            var endDateString = endDate.ToString("yyyy-MM-dd");
+            
+            // Escapa el correo electrónico para que sea seguro en la URL
+            var emailEncoded = Uri.EscapeDataString(emailAddress);
+
+            
+
+            //var response = await Http.PostAsJsonAsync("http://localhost:5000/api/sale/send-pdf-report?startDate={startDateString}&endDate={endDateString}&email={emailEncoded}");
+            //var response = await Http.PostAsync("http://localhost:5000/api/sale/send-pdf-report?startDate={startDateString}&endDate={endDateString}&email={emailEncoded}");
+
+            // Construye la URL con los parámetros dinámicos
+            var url = $"http://localhost:5000/api/sale/send-pdf-report?startDate={startDateString}&endDate={endDateString}&email={emailEncoded}";
+
+            // Realiza la solicitud POST (sin cuerpo)
+            var response = await Http.PostAsync(url, null);  // No es necesario enviar contenido en el cuerpo
+
+
+
+            if (response.IsSuccessStatusCode)
+            {
+                await JS.InvokeVoidAsync("console.log", response);
+                
+            }
+            else
+            {
+                // Detalle del error devuelto por el servidor
+                var errorContent = await response.Content.ReadAsStringAsync();
+                await JS.InvokeVoidAsync($"Error al enviar el reporte. Código de estado: {response.StatusCode}, Detalles: {errorContent}");
+
+                await JS.InvokeVoidAsync("console.log", "Error al enviar el reporte.");
+                
+            }
+        }
+        catch (Exception ex)
+        {
+            await JS.InvokeVoidAsync($"Error: {ex.Message}");
+        }
+    }
+
+
+}
+
