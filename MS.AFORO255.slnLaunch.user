@@ -20,6 +20,10 @@
       {
         "Path": "MS.AFORO255.Gateway\\MS.AFORO255.Gateway.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Formulario\\Formulario.csproj",
+        "Action": "Start"
       }
     ]
   }

@@ -156,7 +156,7 @@ namespace MS.AFORO255.Sale.Controllers
 
 
         //, [FromQuery] string email
-        [HttpPost("send-pdf-report")]
+        /*[HttpPost("send-pdf-report")]
         public async Task<IActionResult> SendSalesReportPdf([FromQuery] DateTime startDate, [FromQuery] DateTime endDate, [FromQuery] string email)
         {
 
@@ -187,6 +187,56 @@ namespace MS.AFORO255.Sale.Controllers
             return Ok(new { Message = "El reporte se envió correctamente." });
         }
 
+        */
+
+        [HttpPost("send-pdf-report")]
+        public async Task<IActionResult> SendSalesReportPdf(
+        [FromQuery] DateTime startDate,
+        [FromQuery] DateTime endDate,
+        [FromQuery] string emails) // Cambiar a string
+        {
+            // Validar que la cadena de correos no sea nula o vacía
+            if (string.IsNullOrWhiteSpace(emails))
+            {
+                return BadRequest("Debe proporcionar al menos una dirección de correo electrónico.");
+            }
+
+            // Dividir la cadena en una lista de correos
+            var emailList = emails.Split(',', StringSplitOptions.RemoveEmptyEntries).Select(e => e.Trim()).ToList();
+
+            // Validar el formato de cada correo en la lista
+            var emailService = new EmailService(_configuration);
+            foreach (var email in emailList)
+            {
+                if (!emailService.EsCorreoValido(email))
+                {
+                    return BadRequest($"La dirección de correo electrónico '{email}' no es válida.");
+                }
+            }
+
+            var sales = await _saleService.GetSalesByDateRangeAsync(startDate, endDate);
+
+            if (!sales.Any())
+            {
+                return NotFound("No hay ventas en el rango de fechas especificado.");
+            }
+
+            var pdfService = new PdfService();
+            var pdfBytes = pdfService.GenerateSalesReportPdf(sales.Select(s => new
+            {
+                CustomerName = _customerService.GetCustomerName(s.CustomerId).Result,
+                SaleDate = s.SaleDate,
+                TotalAmount = s.TotalAmount
+            }));
+
+            // Enviar el correo a cada dirección proporcionada
+            foreach (var email in emailList)
+            {
+                await emailService.SendEmailWithAttachment(email, "Reporte de Ventas", "Adjunto el reporte solicitado.", pdfBytes, "ReporteVentas.pdf");
+            }
+
+            return Ok(new { Message = "El reporte se envió correctamente a todos los destinatarios." });
+        }
 
 
         public bool EsCorreoValido(string correo)

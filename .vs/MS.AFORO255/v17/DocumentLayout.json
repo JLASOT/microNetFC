@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\ms.aforo255.sale\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|solutionrelative:ms.aforo255.sale\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\ms.aforo255.sale\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|solutionrelative:ms.aforo255.sale\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -11,32 +15,20 @@
       "RelativeMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|solutionrelative:ms.aforo255.sale\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\ms.aforo255.sale\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|solutionrelative:ms.aforo255.sale\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\ms.aforo255.sale\\services\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|solutionrelative:ms.aforo255.sale\\services\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\ms.aforo255.sale\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|solutionrelative:ms.aforo255.sale\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4947168C-E6DC-49CE-94F1-333BDE221CFC}|MS.AFORO255.Gateway\\MS.AFORO255.Gateway.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\ms.aforo255.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4947168C-E6DC-49CE-94F1-333BDE221CFC}|MS.AFORO255.Gateway\\MS.AFORO255.Gateway.csproj|solutionrelative:ms.aforo255.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4947168C-E6DC-49CE-94F1-333BDE221CFC}|MS.AFORO255.Gateway\\MS.AFORO255.Gateway.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\ms.aforo255.gateway\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4947168C-E6DC-49CE-94F1-333BDE221CFC}|MS.AFORO255.Gateway\\MS.AFORO255.Gateway.csproj|solutionrelative:ms.aforo255.gateway\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\ms.aforo255.sale\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|solutionrelative:ms.aforo255.sale\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{419B15E2-042A-43EE-92F5-779F8B4E93D2}|Formulario\\Formulario.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\formulario\\components\\pages\\report.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{419B15E2-042A-43EE-92F5-779F8B4E93D2}|Formulario\\Formulario.csproj|solutionrelative:formulario\\components\\pages\\report.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\ms.aforo255.sale\\ms.aforo255.sale.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|solutionrelative:ms.aforo255.sale\\ms.aforo255.sale.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\ms.aforo255.sale\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B65CF55F-8FDB-4553-BF21-45A0438A84CC}|MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj|solutionrelative:ms.aforo255.sale\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{419B15E2-042A-43EE-92F5-779F8B4E93D2}|Formulario\\Formulario.csproj|d:\\tecno web\\mesa\\ms.aforo255\\ms.aforo255\\formulario\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{419B15E2-042A-43EE-92F5-779F8B4E93D2}|Formulario\\Formulario.csproj|solutionrelative:formulario\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,119 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PdfService.cs",
-              "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\Services\\PdfService.cs",
-              "RelativeDocumentMoniker": "MS.AFORO255.Sale\\Services\\PdfService.cs",
-              "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\Services\\PdfService.cs",
-              "RelativeToolTip": "MS.AFORO255.Sale\\Services\\PdfService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAEYAAAAkAAAAAAAAAA==",
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\Services\\ISaleService.cs",
+              "RelativeDocumentMoniker": "MS.AFORO255.Sale\\Services\\ISaleService.cs",
+              "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\Services\\ISaleService.cs",
+              "RelativeToolTip": "MS.AFORO255.Sale\\Services\\ISaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T03:01:10.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Gateway\\Startup.cs",
-              "RelativeDocumentMoniker": "MS.AFORO255.Gateway\\Startup.cs",
-              "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Gateway\\Startup.cs",
-              "RelativeToolTip": "MS.AFORO255.Gateway\\Startup.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T23:37:23.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\appsettings.json",
-              "RelativeDocumentMoniker": "MS.AFORO255.Sale\\appsettings.json",
-              "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\appsettings.json",
-              "RelativeToolTip": "MS.AFORO255.Sale\\appsettings.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T14:10:34.824Z",
+              "WhenOpened": "2025-01-17T12:52:12.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ocelot.json",
-              "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Gateway\\ocelot.json",
-              "RelativeDocumentMoniker": "MS.AFORO255.Gateway\\ocelot.json",
-              "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Gateway\\ocelot.json",
-              "RelativeToolTip": "MS.AFORO255.Gateway\\ocelot.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T13:17:38.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MS.AFORO255.Sale.csproj",
-              "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj",
-              "RelativeDocumentMoniker": "MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj",
-              "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj",
-              "RelativeToolTip": "MS.AFORO255.Sale\\MS.AFORO255.Sale.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T13:10:12.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "SaleService.cs",
               "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\Services\\SaleService.cs",
               "RelativeDocumentMoniker": "MS.AFORO255.Sale\\Services\\SaleService.cs",
               "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\Services\\SaleService.cs",
               "RelativeToolTip": "MS.AFORO255.Sale\\Services\\SaleService.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAswIYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAmwI4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T04:45:14.863Z"
+              "WhenOpened": "2025-01-17T12:46:08.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\Formulario\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Formulario\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\Formulario\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Formulario\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:26:07.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\appsettings.json",
+              "RelativeDocumentMoniker": "MS.AFORO255.Sale\\appsettings.json",
+              "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\appsettings.json",
+              "RelativeToolTip": "MS.AFORO255.Sale\\appsettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T12:02:58.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EmailService.cs",
               "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "MS.AFORO255.Sale\\Services\\EmailService.cs",
               "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\Services\\EmailService.cs",
               "RelativeToolTip": "MS.AFORO255.Sale\\Services\\EmailService.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T03:25:51.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SaleController.cs",
               "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\Controllers\\SaleController.cs",
               "RelativeDocumentMoniker": "MS.AFORO255.Sale\\Controllers\\SaleController.cs",
               "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\MS.AFORO255.Sale\\Controllers\\SaleController.cs",
               "RelativeToolTip": "MS.AFORO255.Sale\\Controllers\\SaleController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAmwFYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAuwN0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T03:22:03.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Report.razor",
               "DocumentMoniker": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\Formulario\\Components\\Pages\\Report.razor",
               "RelativeDocumentMoniker": "Formulario\\Components\\Pages\\Report.razor",
               "ToolTip": "D:\\TECNO WEB\\mesa\\MS.AFORO255\\MS.AFORO255\\Formulario\\Components\\Pages\\Report.razor",
               "RelativeToolTip": "Formulario\\Components\\Pages\\Report.razor",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T00:42:57.17Z"
+              "WhenOpened": "2025-01-16T00:42:57.17Z",
+              "EditorCaption": ""
             }
           ]
         }

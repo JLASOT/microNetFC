@@ -31,3 +31,4 @@ D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\Formulario\obj\Debug\net8.0\refint\For
 D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\Formulario\obj\Debug\net8.0\Formulario.pdb
 D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\Formulario\obj\Debug\net8.0\Formulario.genruntimeconfig.cache
 D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\Formulario\obj\Debug\net8.0\ref\Formulario.dll
+D:\TECNO WEB\mesa\MS.AFORO255\MS.AFORO255\Formulario\obj\Debug\net8.0\Formulario.sourcelink.json

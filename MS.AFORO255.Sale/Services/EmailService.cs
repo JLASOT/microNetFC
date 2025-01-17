@@ -9,6 +9,7 @@ using System.Text;
 using System.Globalization;
 using MailKit.Net.Smtp;
 using MimeKit;
+using System.Collections.Generic;
 
 
 namespace MS.AFORO255.Sale.Services
@@ -21,7 +22,7 @@ namespace MS.AFORO255.Sale.Services
         {
             _configuration = configuration;
         }
-        public async Task SendEmailWithAttachment(string toEmail, string subject, string body, byte[] attachmentBytes, string attachmentName)
+        /*public async Task SendEmailWithAttachment(string toEmail, string subject, string body, byte[] attachmentBytes, string attachmentName)
         {
             // Crear el mensaje de correo
             var message = new MimeMessage();
@@ -55,6 +56,41 @@ namespace MS.AFORO255.Sale.Services
                 // Desactivar la validación del certificado
                 client.ServerCertificateValidationCallback = (sender, certificate, chain, sslPolicyErrors) => true;
 
+
+                await client.ConnectAsync(smtpHost, smtpPort, MailKit.Security.SecureSocketOptions.StartTls);
+                //await client.AuthenticateAsync(smtpUser, smtpPass);
+                await client.SendAsync(message);
+                await client.DisconnectAsync(true);
+            }
+        }
+        */
+        public async Task SendEmailWithAttachment(string toEmail, string subject, string body, byte[] attachmentBytes, string attachmentName)
+        {
+            var message = new MimeMessage();
+            message.From.Add(new MailboxAddress("Administracion", _configuration["EmailSettings:SmtpUser"]));
+            message.To.Add(new MailboxAddress("", toEmail));
+            message.Subject = subject;
+
+            var bodyBuilder = new BodyBuilder
+            {
+                HtmlBody = body
+            };
+
+            if (attachmentBytes != null)
+            {
+                bodyBuilder.Attachments.Add(attachmentName, attachmentBytes, ContentType.Parse("application/pdf"));
+            }
+
+            message.Body = bodyBuilder.ToMessageBody();
+
+            using (var client = new SmtpClient())
+            {
+                var smtpHost = _configuration["EmailSettings:SmtpHost"];
+                var smtpPort = int.Parse(_configuration["EmailSettings:SmtpPort"]);
+                var smtpUser = _configuration["EmailSettings:SmtpUser"];
+                var smtpPass = _configuration["EmailSettings:SmtpPass"];
+
+                client.ServerCertificateValidationCallback = (sender, certificate, chain, sslPolicyErrors) => true;
 
                 await client.ConnectAsync(smtpHost, smtpPort, MailKit.Security.SecureSocketOptions.StartTls);
                 //await client.AuthenticateAsync(smtpUser, smtpPass);

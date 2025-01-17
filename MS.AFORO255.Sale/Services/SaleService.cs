@@ -134,6 +134,7 @@ namespace MS.AFORO255.Sale.Services
         }
 
 
+
         //reporte
         public async Task<IEnumerable<Models.Sale>> GetSalesByDateRangeAsync(DateTime startDate, DateTime endDate)
         {
